@@ -76,7 +76,7 @@ mTLS 보안, 카나리 배포, Circuit Breaker, 분산 추적 구현.
 **Florence-2 VLL 기반 비주얼 질의응답 시스템** (2025, Uni-D AI 대회)
 
 Microsoft Florence-2 모델을 활용한 비주얼 언어 모델 파인튜닝.
-이미지-텍스트 멀티모달 이해 태스크 구현, 대회 제출 경험.
+문서 이미지 내 표·차트 위치 예측 (mIoU 기반 평가), 한국어 쿼리 처리 구현.
 
 `Python` `PyTorch` `Florence-2` `HuggingFace` | [Repository](https://github.com/kumryu123456/Uni_D_18_VLL)
 
@@ -84,7 +84,7 @@ Microsoft Florence-2 모델을 활용한 비주얼 언어 모델 파인튜닝.
 
 **딥페이크 탐지 모델** (2025.10~2025.12, AI팩토리 챌린지 + 인턴십)
 
-이중 분기 CNN 아키텍처로 딥페이크 영상 탐지, AUC 0.78 달성.
+EfficientNet-B4 + ViT 이중 브랜치 아키텍처로 딥페이크 탐지, AUC 0.78 달성.
 AI보안연구센터 인턴십 기간 중 진행한 실무 연계 프로젝트.
 
 `PyTorch` `EfficientNet` `OpenCV` | [Repository](https://github.com/kumryu123456/deepfake-detector-aifactory2025)
@@ -118,8 +118,9 @@ MNIST 기반 CNN / Random Forest / KNN 비교 분석, 팀 리더.
 
 ---
 
-## 현재 공부 중
+## 현재 진행 중
 
-- 정보처리기사 취득 준비
+- 정보처리기사 취득 준비 (2026 하반기 목표)
+- Notion 포트폴리오 구성 중
 - CS 기초 복습 (운영체제, 네트워크, 데이터베이스)
 - 코딩테스트 연습 (백준, 프로그래머스)
