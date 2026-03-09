@@ -73,6 +73,24 @@ mTLS 보안, 카나리 배포, Circuit Breaker, 분산 추적 구현.
 
 ---
 
+**Florence-2 VLL 기반 비주얼 질의응답 시스템** (2025, Uni-D AI 대회)
+
+Microsoft Florence-2 모델을 활용한 비주얼 언어 모델 파인튜닝.
+이미지-텍스트 멀티모달 이해 태스크 구현, 대회 제출 경험.
+
+`Python` `PyTorch` `Florence-2` `HuggingFace` | [Repository](https://github.com/kumryu123456/Uni_D_18_VLL)
+
+---
+
+**딥페이크 탐지 모델** (2025.10~2025.12, AI팩토리 챌린지 + 인턴십)
+
+이중 분기 CNN 아키텍처로 딥페이크 영상 탐지, AUC 0.78 달성.
+AI보안연구센터 인턴십 기간 중 진행한 실무 연계 프로젝트.
+
+`PyTorch` `EfficientNet` `OpenCV` | [Repository](https://github.com/kumryu123456/deepfake-detector-aifactory2025)
+
+---
+
 **Future Mindmap — RAG 커리어 추천 시스템** (2025.08, 유니톤 해커톤)
 
 백엔드 팀 리더로 RAG 기반 직무 추천 시스템 구현.
@@ -97,17 +115,6 @@ MNIST 기반 CNN / Random Forest / KNN 비교 분석, 팀 리더.
 정확도 93.2% → 99.78% 향상.
 
 `PyTorch` `scikit-learn`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumryu123456&show_icons=true&theme=default&hide_border=true)](https://github.com/kumryu123456)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumryu123456&layout=compact&theme=default&hide_border=true)](https://github.com/kumryu123456)
-
-</div>
 
 ---
 
