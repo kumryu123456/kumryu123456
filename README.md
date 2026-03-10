@@ -3,7 +3,7 @@
 # 안녕하세요, 김경민입니다
 
 숭실대학교 전자정보공학부 IT융합전공 졸업예정자입니다.<br>
-백엔드와 AI 인프라를 함께 다룰 수 있는 개발자를 목표로 공부하고 있습니다.
+백엔드와 AI 인프라를 함께 다루는 개발자입니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-kumryu123456@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kumryu123456@gmail.com)
 [![OPIc](https://img.shields.io/badge/OPIc-IH-blue?style=flat)](https://www.actfl.org/)
