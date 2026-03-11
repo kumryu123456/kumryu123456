@@ -117,7 +117,7 @@ EfficientNet-B4 + ViT 이중 브랜치 아키텍처로 딥페이크 탐지, **AU
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-**PathPilot — AI 취업 지원 어시스턴트** (2025, FastCampus 빌더톤)
+**PathPilot — AI 취업 지원 어시스턴트** (2026, FastCampus 빌더톤)
 
 백엔드 단독 개발. FastAPI 기반 AI 취업 어시스턴트 — 이력서 분석·자소서 생성·채용 추천·모의 면접 4종 기능. 이력서 분석 응답시간 90초 → 13초 (85% 단축) 달성.
 
