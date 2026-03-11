@@ -14,7 +14,7 @@
 
 ## About
 
-숭실대학교 전자정보공학부 IT융합전공, 2026년 8월 졸업 예정입니다.
+숭실대학교 전자정보공학부 IT융합전공, 2026년 8월 졸업 예정입니다.hh
 
 인턴십 2회(블루에스랩 3인 스타트업, AI보안연구센터)를 통해 AI 브라우저 자동화와 딥페이크 탐지 도메인을 경험했고,
 졸업논문으로 Istio Service Mesh 기반 마이크로서비스 트래픽 관리를 구현했습니다.
@@ -53,7 +53,7 @@
 | 기간 | 기관 | 역할 | 주요 내용 |
 |------|------|------|-----------|
 | 2025.10 ~ 2025.12 | AI보안연구센터 (숭실대) | 인턴 | EfficientNet-B4 + ViT 앙상블 딥페이크 탐지 · AUC 0.78 달성 · 오탐률 22%→5% · 6,170건 라벨링 |
-| 2024.03 ~ 2024.05 | 블루에스랩 (3인 스타트업) | 백엔드 인턴 | 백엔드 단독 개발 · Playwright 스크래핑 + FastAPI 5개 엔드포인트 · 처리 시간 20% 단축 |
+| 2024.03 ~ 2024.04 | 블루에스랩 (3인 스타트업) | 백엔드 인턴 | 백엔드 단독 개발 · Playwright 스크래핑 + FastAPI 5개 엔드포인트 · 처리 시간 20% 단축 |
 
 ---
 
@@ -116,6 +116,16 @@ EfficientNet-B4 + ViT 이중 브랜치 아키텍처로 딥페이크 탐지, **AU
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+
+**PathPilot — AI 취업 지원 어시스턴트** (2025, FastCampus 빌더톤)
+
+백엔드 단독 개발. FastAPI 기반 AI 취업 어시스턴트 — 이력서 분석·자소서 생성·채용 추천·모의 면접 4종 기능. 이력서 분석 응답시간 90초 → 13초 (85% 단축) 달성.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+| [Repository](https://github.com/kumryu123456/Fastcampus_Builderthon)
 
 ---
 
