@@ -75,7 +75,7 @@
 
 **졸업논문 — Istio Service Mesh 기반 마이크로서비스 트래픽 관리** (2025.09~2025.12)
 
-단독 연구. GKE Autopilot + Istio 1.21 기반 11개 마이크로서비스 배포 및 트래픽 관리. Locust 부하 테스트로 80명 임계점 발견, 성능 오버헤드 15% 이내 확인. mTLS 보안, 카나리 배포, Circuit Breaker, 분산 추적 구현. 47편 선행 연구 분석 기반 GKE Autopilot 환경 최초 Istio 성능 연구.
+단독 연구. GKE Autopilot + Istio 1.21 기반 11개 마이크로서비스 배포 및 트래픽 관리. Locust 부하 테스트로 80명 임계점 발견, 성능 오버헤드 15.8% (15ms) 확인. mTLS 보안, 카나리 배포, Circuit Breaker, 분산 추적 구현. 47편 선행 연구 분석 기반 GKE Autopilot 환경 최초 Istio 성능 연구.
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white)
