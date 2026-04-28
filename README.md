@@ -88,7 +88,7 @@
 
 **PathPilot — AI 취업 지원 어시스턴트** (2026.01, FastCampus 빌더톤)
 
-백엔드 단독 개발. FastAPI 기반 AI 취업 어시스턴트 — 이력서 분석·자소서 생성·채용 추천·모의 면접 4종 기능. API 16개 엔드포인트, DB 모델 15개 단독 설계. 이력서 분석 응답시간 90초 → 13초 (85% 단축) 달성. 5개 응답시간 지표 중 4개 목표 달성.
+백엔드 단독 개발. FastAPI 기반 AI 취업 어시스턴트 — 이력서 분석·자소서 생성·채용 추천·모의 면접 4종 기능. API 16개 엔드포인트, DB 모델 15개 단독 설계. 이력서 분석 응답시간 90초 → 13초 (85% 단축) 달성. 5개 응답시간 지표 중 4개 목표 달성. Swagger UI 기반 API 문서 자동화.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
