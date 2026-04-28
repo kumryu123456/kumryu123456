@@ -6,7 +6,7 @@
 백엔드와 AI 인프라를 함께 다루는 개발자입니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-kumryu123456@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kumryu123456@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://portfolio-kumryu123456s-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?styhle=flat&logo=vercel&logoColor=white)](https://portfolio-kumryu123456s-projects.vercel.app)
 [![OPIc](https://img.shields.io/badge/OPIc-IH-blue?style=flat)](https://www.actfl.org/)
 [![SQLD](https://img.shields.io/badge/SQLD-취득완료-green?style=flat)](https://www.dataq.or.kr/)
 
@@ -67,7 +67,7 @@
 | 기간 | 기관 | 역할 | 주요 내용 |
 |------|------|------|-----------|
 | 2025.10 ~ 2025.12 | AI보안연구센터 (숭실대) | 인턴 | 딥페이크 탐지 데이터 6,170건 이상 직접 라벨링 (이미지 2,500+ · 오디오 1,600+ · 비디오 2,070+) · 품질 관리 (합의율 78% → 95%) |
-| 2024.03 ~ 2024.05 | 블루에스랩 (6인 스타트업) | 인턴 | PyQt5/6 기반 UI + browser-use 활용 AI 브라우저 자동화 시스템 개발 참여 · OpenAI API 연동 · 처리 속도 20% 향상, 성공률 15%p 향상 |
+| 2024.03 ~ 2024.05 | 블루에스랩 (6인 스타트업) | 인턴 | PyQt5/6 기반 UI + browser-use 활용 AI 브라우저 자동화 시스템 개발 참여 · OpenAI API 연동 · 처리 속도 20% 단축 (3.2초 → 2.6초), 성공률 15%p 향상 (78% → 93%) |
 
 ---
 
