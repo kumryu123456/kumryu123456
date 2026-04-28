@@ -128,7 +128,7 @@
 
 **손글씨 분류 ML 프로젝트** (2024.09~2024.12)
 
-5인 팀 리더 (기여도 30%). MNIST 기반 CNN / Random Forest / KNN 비교 실험 설계 및 분석. 데이터 증강 전략 수립, EDA로 혼동 패턴 발견. 정확도 93.2%→99.78% 달성 (Random Forest 최고 성능).
+5인 팀 리더 (기여도 30%). Colored MNIST 기반 CNN / Random Forest / KNN / SVM / SGD 비교 실험 설계 및 분석. 데이터 증강 전략 수립, EDA로 혼동 패턴 발견. 정확도 93.2%→99.78% 달성 (CNN 최고 성능).
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
